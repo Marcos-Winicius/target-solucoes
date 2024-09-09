@@ -1,0 +1,16 @@
+ex_03:
+77
+
+ex_04:
+a) 9
+b) 128
+c) 49
+d) 100
+e) 13
+f) 200
+
+ex_05:
+Primeiro, vou ligar o primeiro interruptor e deixá-lo ligado por uns 10-15 minutos para garantir que a lâmpada fique bem quente. Depois, vou desligar esse primeiro interruptor e ligar o segundo interruptor. O terceiro interruptor vai continuar desligado durante todo o processo. Vou até a sala para verificar e logo posso deduzir.
+Se a lâmpada estiver quente e apagada, quer dizer que a lâmpada está conectada ao primeiro interruptor.
+Se a lâmpada estiver acesa, quer dizer a lâmpada está conectada ao segundo interruptor.
+Se estiver fria e apagada, quer dizer que a lâmpada está conectado ao terceiro interruptor.
